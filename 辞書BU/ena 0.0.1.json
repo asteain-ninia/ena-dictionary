@@ -1,0 +1,208 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 731,
+      "form" : ""
+    },
+    "translations" : [ {
+      "title" : "",
+      "forms" : [ "凡例-ena" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "細かい単語の使い方や、日本語と比べての差、そして熟語などを示す。"
+    }, {
+      "title" : "文字",
+      "text" : "この単語に対応する文字転写が記される、予定。"
+    }, {
+      "title" : "用例",
+      "text" : "例文が載る。ZpDicにはそのうち例文集中管理機能が載るらしいので、あえて書式は揃えていない。"
+    }, {
+      "title" : "語源",
+      "text" : "語源が記される。書式が固定化されていないので検索性が悪い。"
+    }, {
+      "title" : "造語",
+      "text" : "誰の造語か、またそれはいつか、というのを記す。deはdali-einerZy、leはluluw-elmeygを示し、主にこの二人で大勢を占めているが、まれにye(yayla-estyg)、re(reyn-elmeyg)、tl(tela-leDue)、ee(etal-elda)、ax(arkaM-xilvento)等、他の出名保持者の造語もある。\n西暦にして2019年の0431までは年を平成のｈで成し、翌日0501より令和のrで成す。\n深夜の造語については、眠る・朝日が昇ることで日付の変更を行うこととする。但し年越し、1231と0101の境に関しては年越しを以って年と日付を更新する。(新年大造語のため)"
+    }, {
+      "title" : "変更",
+      "text" : "語形の変更があった際記される。読解で出てきた単語が辞書にない時、ここにあることがある。書式はちょっとふわふわ。"
+    }, {
+      "title" : "注意",
+      "text" : "注意事項、単語についての要検証・要改定を附したり、また編集中の手記を記したりする。\n常に最下層に記される。\n\n検索でほしい単語が出なかったときは、ひらがな・漢字などで検索してみる・別の訳を考える・全文検索に切り替えてみる・より平易な言葉で検索してみる、あきらめてしばらく後に試してみる、ことで出る可能性がある。\nどうしても欲しければ私(twitter:@einerzy)に問い合わせて。\n\n凡例の更新(de)r020120"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 732,
+      "form" : "Ho"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "私" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "文語的。"
+    }, {
+      "title" : "文字",
+      "text" : "H+又 "
+    }, {
+      "title" : "造語",
+      "text" : "R020120(de)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 733,
+      "form" : "Yit"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "私" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ややくだけた言い方。異綴り：yu"
+    }, {
+      "title" : "文字",
+      "text" : "X様字"
+    }, {
+      "title" : "造語",
+      "text" : "R020120(de)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 734,
+      "form" : "lin"
+    },
+    "translations" : [ {
+      "title" : "従詞",
+      "forms" : [ "コピュラ・等位" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "語義に嫌疑在り。なにこれ"
+    }, {
+      "title" : "造語",
+      "text" : "R020120(de)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 735,
+      "form" : "biy"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "動かす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "他動詞。"
+    }, {
+      "title" : "用例",
+      "text" : "Holin biytu tulaha \n私は剣を動かす"
+    }, {
+      "title" : "造語",
+      "text" : "R020120(de)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 736,
+      "form" : "tula"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "剣" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "R020120(de)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 737,
+      "form" : "ma"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "貴方" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "R020120(de)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 738,
+      "form" : "tho"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "彼" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "R020120(de)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 739,
+      "form" : "lan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "女" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "R020120(de)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "formFontFamily" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
